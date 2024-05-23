@@ -1,0 +1,12 @@
+POST http://localhost:5272/api/csr
+Content-Type: application/json
+
+{
+    "Country": "US",
+    "State": "California",
+    "Locality": "San Francisco",
+    "Organization": "MyCompany",
+    "OrganizationalUnit": "IT",
+    "CommonName": "www.mycompany.com",
+    "EmailAddress": "admin@mycompany.com"
+}

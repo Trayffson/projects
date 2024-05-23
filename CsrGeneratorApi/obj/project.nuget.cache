@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "h1Hfxihz/vc=",
+  "success": true,
+  "projectFilePath": "E:\\projetos\\CsrGeneratorApi\\CsrGeneratorApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trayf\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\trayf\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.30\\microsoft.netcore.app.runtime.win-x64.6.0.30.nupkg.sha512",
+    "C:\\Users\\trayf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\trayf\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.30\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.30.nupkg.sha512",
+    "C:\\Users\\trayf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\trayf\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.30\\microsoft.aspnetcore.app.runtime.win-x64.6.0.30.nupkg.sha512",
+    "C:\\Users\\trayf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

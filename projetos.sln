@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsrGeneratorApi", "CsrGeneratorApi\CsrGeneratorApi.csproj", "{7829817A-F877-48AA-9F2D-A6D24F21DBB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "backup", "backup", "{2219BBAF-6FE8-48FD-9B5B-F722C997E7D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsrGeneratorApi", "backup\CsrGeneratorApi\CsrGeneratorApi.csproj", "{EB048082-0870-4FB6-A455-0D9D0657FA3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7829817A-F877-48AA-9F2D-A6D24F21DBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7829817A-F877-48AA-9F2D-A6D24F21DBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7829817A-F877-48AA-9F2D-A6D24F21DBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7829817A-F877-48AA-9F2D-A6D24F21DBB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB048082-0870-4FB6-A455-0D9D0657FA3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB048082-0870-4FB6-A455-0D9D0657FA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB048082-0870-4FB6-A455-0D9D0657FA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB048082-0870-4FB6-A455-0D9D0657FA3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EB048082-0870-4FB6-A455-0D9D0657FA3F} = {2219BBAF-6FE8-48FD-9B5B-F722C997E7D0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A34DECF3-0FA7-411E-8985-6E73F744AC93}
+	EndGlobalSection
+EndGlobal

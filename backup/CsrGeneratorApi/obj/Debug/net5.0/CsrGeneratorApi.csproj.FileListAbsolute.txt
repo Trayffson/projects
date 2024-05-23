@@ -1,0 +1,7 @@
+E:\projetos\CsrGeneratorApi\obj\Debug\net5.0\CsrGeneratorApi.csproj.AssemblyReference.cache
+E:\projetos\CsrGeneratorApi\obj\Debug\net5.0\CsrGeneratorApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos\CsrGeneratorApi\obj\Debug\net5.0\CsrGeneratorApi.AssemblyInfoInputs.cache
+E:\projetos\CsrGeneratorApi\obj\Debug\net5.0\CsrGeneratorApi.AssemblyInfo.cs
+E:\projetos\CsrGeneratorApi\obj\Debug\net5.0\CsrGeneratorApi.csproj.CoreCompileInputs.cache
+E:\projetos\CsrGeneratorApi\obj\Debug\net5.0\CsrGeneratorApi.MvcApplicationPartsAssemblyInfo.cs
+E:\projetos\CsrGeneratorApi\obj\Debug\net5.0\CsrGeneratorApi.MvcApplicationPartsAssemblyInfo.cache
